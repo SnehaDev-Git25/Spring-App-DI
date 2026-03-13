@@ -7,7 +7,7 @@ public class Printer {
 	}
 	
 	public void print() {
-		System.out.println("Printing Reciept....");
+		System.out.println("Printing Reciept of the money history....");
 	}
 	
 	
