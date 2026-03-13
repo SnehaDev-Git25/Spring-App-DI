@@ -10,6 +10,7 @@ public class Main {
 		ATM atm = ctxt.getBean(ATM.class);
 		
 		atm.withdraw();
+		atm.showBalance();
 	}
 
 	}
