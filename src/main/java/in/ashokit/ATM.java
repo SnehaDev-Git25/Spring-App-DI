@@ -24,6 +24,18 @@ public class ATM {
 		System.out.println("Amount withdrawn successfully");
 		printer.print();
 	}
+        
+        public long showBalance(){
+		long balance=balance;
+		System.out.println("Your remaining balance is: .........")
+
+		return balance;
+
+	}
+
+
+
+
 
 
 }
